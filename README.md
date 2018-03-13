@@ -2,7 +2,7 @@
 A Sound Manager for use in Unity
 
 # Overview
-As a new indy game devleoper and avid GameJam participant, this is a project I was inspired to create after I experienced a major time crunch at the end of a GameJam. It was the last few hours of the GameJam, and I still needed to do a ton of work with the audio. 
+As a new indy game developer and avid GameJam participant, this is a project I was inspired to create after I experienced a major time crunch at the end of a GameJam. It was the last few hours of the GameJam, and I still needed to do a ton of work with the audio. 
 
 In addition to creating the actual sounds I wanted to use, I still needed to decide how and where to place and manage Audio Sources. A lot of time, effort and thought was still needed to figure out how to manage and pass in the audio clips, manage stops and starts, and test to ensure there were no conflicts with Audio Sources. It was time I didn't have at the end of a GameJam, and if you're still reading this, you may have found yourself in the same boat at some point.
 
